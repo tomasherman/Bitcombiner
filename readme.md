@@ -32,4 +32,4 @@ Simple clone of scala parser combinator library designed for bit data
 	res0: net.tomasherman.bitrex.Result[Any] = Success(Vector(1, 0),Stream(1, ?))
 
 ##Thanks to
- - [Daniel Spiewak for amazing post]("http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators") which i used and abused to make this work <3
+ - [Daniel Spiewak for amazing post](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators) which i used and abused to make this work <3
