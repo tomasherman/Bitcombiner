@@ -1,4 +1,4 @@
-package net.tomasherman.bitrex
+package net.tomasherman.bitcombiner
 
 sealed trait Bit
 object b0 extends Bit { override def toString = "0" }
